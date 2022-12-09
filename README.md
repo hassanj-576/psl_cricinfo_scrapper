@@ -1,7 +1,7 @@
 # psl_cricinfo_scrapper
 
 ## Introduction
-This repo contains code to scrape the code for each of the 5 editions of PSL using cricinfo. The code consists of a single jupyter notebook that you can run to extract all the data and store it as a CSV.
+This repo contains code to scrape the code for each of the 7 editions of PSL using cricinfo. The code exists both as aa single jupyter notebook or structured python code that you can run to extract all the data and store it as a CSV.
 
 ## Upading with new Data
 
