@@ -51,7 +51,7 @@ def get_data_for_url(url):
 # Given all Data, Generate the rows for the CSV from extracted data
 def get_row_list_from_all_match_data(all_match_data, psl_year):
     all_rows = []
-    for index, match in enumerate(reversed(all_match_data)):
+    for index, match in enumerate(all_match_data):
         for ining, value in match["data"].items():
             wickets = 0
             runs = 0

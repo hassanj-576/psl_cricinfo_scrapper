@@ -46,7 +46,7 @@ df = df[
         "result",
     ]
 ]
-df.to_csv("PSL-2016-2021.csv", index=False)
+df.to_csv("PSL-2016-2022.csv", index=False)
 end = time.time()
 
 print(f"Total Time Taken : {end - start}")
